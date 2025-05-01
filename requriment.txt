@@ -1,5 +1,5 @@
 requests 
 bs4
 streamlit
-urllib.parse
+urllib3
 datasets
