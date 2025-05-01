@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-# import re
-# import uuid
-# import markdown
+import re
+import uuid
+import markdown
 import streamlit as st
 from urllib.parse import quote
 from datasets import load_dataset
